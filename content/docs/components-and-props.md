@@ -83,8 +83,6 @@ const element = <Welcome name="Sara" />;
 root.render(element);
 ```
 
-**[Try it on CodePen](https://codepen.io/gaearon/pen/YGYmEG?editors=1010)**
-
 Let's recap what happens in this example:
 
 1. We call `root.render()` with the `<Welcome name="Sara" />` element.
